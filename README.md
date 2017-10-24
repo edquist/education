@@ -2,7 +2,7 @@
 
 This repository contains the internal documents for the OSG Education Area
 
-- [Github hosted](http://opensciencegrid.github.io/management)
+- [Github hosted](http://opensciencegrid.github.io/education)
 
 ## Other OSG documentation on Github
 
