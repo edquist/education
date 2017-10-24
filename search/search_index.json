@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "OSG Education\n\n\nHomepage of the OSG Education area", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#osg-education", 
+            "text": "Homepage of the OSG Education area", 
+            "title": "OSG Education"
+        }
+    ]
+}
