@@ -2,13 +2,13 @@ site_name: OSG Education
 site_url: https://opensciencegrid.github.io/education/
 repo_url: https://github.com/opensciencegrid/education/
 theme:
-  name: readthedocs
+  name: windmill
 
 extra_css:
   - css/extra.css
 
 pages:
-  - Home: 'index.md'
+  - 'Home': 'index.md'
 
 markdown_extensions:
   - admonition
