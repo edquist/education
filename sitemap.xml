@@ -4,9 +4,19 @@
     
     <url>
      <loc>https://opensciencegrid.github.io/education//</loc>
-     <lastmod>2017-10-25</lastmod>
+     <lastmod>2017-12-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
+    <url>
+     <loc>https://opensciencegrid.github.io/education//user-school/2017/</loc>
+     <lastmod>2017-12-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>

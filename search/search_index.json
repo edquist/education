@@ -2,13 +2,53 @@
     "docs": [
         {
             "location": "/", 
-            "text": "OSG Education\n\n\nHomepage of the OSG Education area", 
-            "title": "Home"
+            "text": "OSG Education\n\n\nThe OSG Education area provides and supports training in Distributed High Throughput Computing (DHTC) and other topics\nrelated to the Open Science Grid mission.\n\n\nOSG User School\n\n\nOur marquee training event is the annual OSG User School, held each summer at the University of Wisconsin\u2013Madison.\nCurrent and past offerings:\n\n\n\n\n2017 OSG User School\n \u2014 17\u201321 July 2017\n\n\n2016 OSG User School \u2014 25\u201329 July 2016\n\n\n2015 OSG User School \u2014 27\u201331 July 2015\n\n\n2014 OSG User School \u2014 7\u201310 July 2014\n\n\n2013 OSG User School \u2014 24\u201327 June 2013\n\n\n2012 OSG User School \u2014 25\u201328 June 2012\n\n\n2011 OSG Summer School \u2014 26\u201330 June 2011\n\n\n2010 OSG Summer School \u2014 19\u201322 July 2010\n\n\n\n\nOther Resources\n\n\n\n\nTraining events and workshops associated with the Open Science Grid\n\n\nCODATA/RDA Summer School\n\n\n\n\nOSG Education Team\n\n\nTim Cartwright\n, OSG Education Coordinator: Tim has a Ph.D. in Cognitive Science from Johns Hopkins University.  He\nhas worked in a variety of fields as a programmer and as an industry consultant in training and performance improvement.\nIn 2005, he joined the OSG Software team (VDT) at the University of Wisconsin\u2013Madison as a developer.  He has since\nbecome the OSG Software team manager and OSG Education coordinator.", 
+            "title": "OSG Education"
         }, 
         {
             "location": "/#osg-education", 
-            "text": "Homepage of the OSG Education area", 
+            "text": "The OSG Education area provides and supports training in Distributed High Throughput Computing (DHTC) and other topics\nrelated to the Open Science Grid mission.", 
             "title": "OSG Education"
+        }, 
+        {
+            "location": "/#osg-user-school", 
+            "text": "Our marquee training event is the annual OSG User School, held each summer at the University of Wisconsin\u2013Madison.\nCurrent and past offerings:   2017 OSG User School  \u2014 17\u201321 July 2017  2016 OSG User School \u2014 25\u201329 July 2016  2015 OSG User School \u2014 27\u201331 July 2015  2014 OSG User School \u2014 7\u201310 July 2014  2013 OSG User School \u2014 24\u201327 June 2013  2012 OSG User School \u2014 25\u201328 June 2012  2011 OSG Summer School \u2014 26\u201330 June 2011  2010 OSG Summer School \u2014 19\u201322 July 2010", 
+            "title": "OSG User School"
+        }, 
+        {
+            "location": "/#other-resources", 
+            "text": "Training events and workshops associated with the Open Science Grid  CODATA/RDA Summer School", 
+            "title": "Other Resources"
+        }, 
+        {
+            "location": "/#osg-education-team", 
+            "text": "Tim Cartwright , OSG Education Coordinator: Tim has a Ph.D. in Cognitive Science from Johns Hopkins University.  He\nhas worked in a variety of fields as a programmer and as an industry consultant in training and performance improvement.\nIn 2005, he joined the OSG Software team (VDT) at the University of Wisconsin\u2013Madison as a developer.  He has since\nbecome the OSG Software team manager and OSG Education coordinator.", 
+            "title": "OSG Education Team"
+        }, 
+        {
+            "location": "/user-school/2017/", 
+            "text": "(Image copyright Ann Althouse, licensed under Creative Commons, \nhttp://www.flickr.com/photos/althouse/141467660/\n)\n\n\nOSG User School 2017\n\n\nCould you transform your research with vast amounts of computing?\n\n\n\nCome spend a week at the beautiful University of Wisconsin\u2013Madison and learn how\n\n\nDuring the school, 17\u201321 July, you will learn to use high-throughput computing (HTC) systems \u2014 at your own campus or\nusing the national Open Science Grid (OSG) \u2014 to run large-scale computing applications that are at the heart of today\u2019s\ncutting-edge science.  Through lectures, discussions, and \nlots of hands-on activities\n with experienced OSG staff,\nyou will learn how HTC systems work, how to run and manage lots of jobs and huge datasets to implement a scientific\ncomputing workflow, and where to turn for more information and help.  Take a look at [the high-level curriculum and\nsyllabus](/user-school/2017/curriculum-overview.md) for more details.\n\n\nThe school is ideal for graduate students in any science or research domain where large-scale computing is a vital part\nof the research process, plus we will consider applications from advanced undergraduates, post-doctoral students,\nfaculty, and staff.  Students accepted to this program will receive financial support for basic travel and local costs\nassociated with the School.\n\n\nApplications\n\n\nApplications closed on 17 April 2017.  We plan to notify applicants of our decisions by early May.  Thanks for your\ninterest!\n\n\nInformation for Participants\n\n\n\n\nCurriculum\n\n\n[High-level curriculum](/user-school/2017/curriculum-overview.md)\n\n\n[Detailed schedule](/user-school/2017/detailed-schedule.md)\n\n\n[Materials](/user-school/2017/materials/index.md)\n\n\n[Evening work sessions (optional)](/user-school/2017/evening-sessions.md)\n\n\n[Final assignment](/user-school/2017/assignment.md)\n\n\n\n\n\n\n[Logistics](/user-school/2017/logistics/index.md)\n\n\n[Non-resident aliens and documentation requirements](/user-school/2017/logistics/personal-info.md)\n\n\n[Travel to and from Madison](/user-school/2017/logistics/travel.md)\n\n\n[Hotel information](/user-school/2017/logistics/hotel.md)\n\n\n[Travel within Madison](/user-school/2017/logistics/local-transportation.md)\n\n\n[Location of School](/user-school/2017/logistics/location.md)\n\n\n[Meals during the School](/user-school/2017/logistics/meals.md)\n\n\n[Fun things to do in Madison](/user-school/2017/logistics/fun.md) and [Wednesday activities](/user-school/2017/materials/day3/part3-activities.md)\n\n\n[Reimbursements](/user-school/2017/logistics/reimbursements.md)\n\n\n\n\n\n\n\n\n \n \nOSG User School 2017 Group Photo\n\n\nContact Us\n\n\nIf you have any questions about the school, the application process, or anything else, feel free to email us:\n\n\n\n\nhttps://www.facebook.com/OSGUserSchool\n\" target=\"\\_blank\" style=\"border: 0px none black; text-decoration:\nnone;\">\n \u00a0 \nhttps://twitter.com/OSGUserSchool\n\" target=\"\\_blank\" style=\"border: 0px none black; text-decoration: none;\">\n \u00a0 OSGUserSchool", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/user-school/2017/#osg-user-school-2017", 
+            "text": "Could you transform your research with vast amounts of computing?  Come spend a week at the beautiful University of Wisconsin\u2013Madison and learn how  During the school, 17\u201321 July, you will learn to use high-throughput computing (HTC) systems \u2014 at your own campus or\nusing the national Open Science Grid (OSG) \u2014 to run large-scale computing applications that are at the heart of today\u2019s\ncutting-edge science.  Through lectures, discussions, and  lots of hands-on activities  with experienced OSG staff,\nyou will learn how HTC systems work, how to run and manage lots of jobs and huge datasets to implement a scientific\ncomputing workflow, and where to turn for more information and help.  Take a look at [the high-level curriculum and\nsyllabus](/user-school/2017/curriculum-overview.md) for more details.  The school is ideal for graduate students in any science or research domain where large-scale computing is a vital part\nof the research process, plus we will consider applications from advanced undergraduates, post-doctoral students,\nfaculty, and staff.  Students accepted to this program will receive financial support for basic travel and local costs\nassociated with the School.", 
+            "title": "OSG User School 2017"
+        }, 
+        {
+            "location": "/user-school/2017/#applications", 
+            "text": "Applications closed on 17 April 2017.  We plan to notify applicants of our decisions by early May.  Thanks for your\ninterest!", 
+            "title": "Applications"
+        }, 
+        {
+            "location": "/user-school/2017/#information-for-participants", 
+            "text": "Curriculum  [High-level curriculum](/user-school/2017/curriculum-overview.md)  [Detailed schedule](/user-school/2017/detailed-schedule.md)  [Materials](/user-school/2017/materials/index.md)  [Evening work sessions (optional)](/user-school/2017/evening-sessions.md)  [Final assignment](/user-school/2017/assignment.md)    [Logistics](/user-school/2017/logistics/index.md)  [Non-resident aliens and documentation requirements](/user-school/2017/logistics/personal-info.md)  [Travel to and from Madison](/user-school/2017/logistics/travel.md)  [Hotel information](/user-school/2017/logistics/hotel.md)  [Travel within Madison](/user-school/2017/logistics/local-transportation.md)  [Location of School](/user-school/2017/logistics/location.md)  [Meals during the School](/user-school/2017/logistics/meals.md)  [Fun things to do in Madison](/user-school/2017/logistics/fun.md) and [Wednesday activities](/user-school/2017/materials/day3/part3-activities.md)  [Reimbursements](/user-school/2017/logistics/reimbursements.md)         OSG User School 2017 Group Photo", 
+            "title": "Information for Participants"
+        }, 
+        {
+            "location": "/user-school/2017/#contact-us", 
+            "text": "If you have any questions about the school, the application process, or anything else, feel free to email us:   https://www.facebook.com/OSGUserSchool \" target=\"\\_blank\" style=\"border: 0px none black; text-decoration:\nnone;\">  \u00a0  https://twitter.com/OSGUserSchool \" target=\"\\_blank\" style=\"border: 0px none black; text-decoration: none;\">  \u00a0 OSGUserSchool", 
+            "title": "Contact Us"
         }
     ]
 }
