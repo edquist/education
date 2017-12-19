@@ -8,7 +8,7 @@ related to the Open Science Grid mission.
 Our marquee training event is the annual OSG User School, held each summer at the University of Wisconsin–Madison.
 Current and past offerings:
 
-- [2017 OSG User School](/user-school/2017/index.md) — 17–21 July 2017
+- [2017 OSG User School](user-school/2017/index.md) — 17–21 July 2017
 - 2016 OSG User School — 25–29 July 2016
 - 2015 OSG User School — 27–31 July 2015
 - 2014 OSG User School — 7–10 July 2014

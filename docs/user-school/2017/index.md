@@ -28,19 +28,19 @@ interest!
 - Curriculum
     - [High-level curriculum](curriculum/overview.md)
     - [Detailed schedule](curriculum/detailed-schedule.md)
-    - \[Materials](/user-school/2017/materials/index.md)
+    - [Materials](materials/index.md)
     - [Evening work sessions (optional)](curriculum/evening-sessions.md)
     - [Final assignment](curriculum/assignment.md)
 - Logistics
     - [General information and travel schedule](logistics/index.md)
     - [Visa requirements for non-resident aliens](logistics/personal-info.md)
     - [Travel planning to and from Madison](logistics/travel.md)
-    - [Hotel information](/user-school/2017/logistics/hotel.md)
-    - [Local transportation within Madison](/user-school/2017/logistics/local-transportation.md)
-    - [School location](/user-school/2017/logistics/location.md)
-    - [Meals at the School](/user-school/2017/logistics/meals.md)
-    - [Fun things to do in Madison](/user-school/2017/logistics/fun.md) and \[Wednesday activities](/user-school/2017/materials/day3/part3-activities.md)
-    - [Reimbursements](/user-school/2017/logistics/reimbursements.md)
+    - [Hotel information](logistics/hotel.md)
+    - [Local transportation within Madison](logistics/local-transportation.md)
+    - [School location](logistics/location.md)
+    - [Meals at the School](logistics/meals.md)
+    - [Fun things to do in Madison](logistics/fun.md) and [Wednesday activities](logistics/wednesday-activities.md)
+    - [Reimbursements](logistics/reimbursements.md)
 
 ![OSG User School 2017 group photo](files/osg-user-school-2017-group.png)
 <br>
