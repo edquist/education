@@ -14,6 +14,16 @@ pages:
   - OSG Education: index.md
   - User School 2017:
     - Home: user-school/2017/index.md
+    - Logistics:
+      - General information:  user-school/2017/logistics/index.md
+      - Visa requirements:    user-school/2017/logistics/personal-info.md
+      - Travel planning:      user-school/2017/logistics/travel.md
+      - Hotel information:    user-school/2017/logistics/hotel.md
+      - Local transportation: user-school/2017/logistics/local-transportation.md
+      - School location:      user-school/2017/logistics/location.md
+      - Meals at the School:  user-school/2017/logistics/meals.md
+      - Fun in Madison:       user-school/2017/logistics/fun.md
+      - Reimbursements:       user-school/2017/logistics/reimbursements.md
 
 markdown_extensions:
   - admonition
