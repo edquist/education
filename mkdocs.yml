@@ -1,6 +1,7 @@
 site_name: OSG Education
 site_url: https://opensciencegrid.github.io/education/
-repo_url: https://github.com/opensciencegrid/education/
+repo_name: null
+repo_url: null
 theme:
   name: windmill
 
@@ -24,8 +25,14 @@ pages:
       - Meals at the School:  user-school/2017/logistics/meals.md
       - Fun in Madison:       user-school/2017/logistics/fun.md
       - Reimbursements:       user-school/2017/logistics/reimbursements.md
+    - Curriculum:
+      - High-level overview:  user-school/2017/curriculum/overview.md
+      - Detailed schedule:    user-school/2017/curriculum/detailed-schedule.md
+      - Evening sessions:     user-school/2017/curriculum/evening-sessions.md
+      - Final assignment:     user-school/2017/curriculum/assignment.md
 
 markdown_extensions:
   - admonition
   - codehilite
-  - toc(permalink=true)
+  - toc:
+      permalink: true
